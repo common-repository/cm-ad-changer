@@ -4,7 +4,7 @@ Contributors: CreativeMindsSolutions
 Donate link: https://www.cminds.com/wordpress-plugins-library/adchanger/
 Tags: ads, ad manager, ad server, adserving, advertising
 Requires at least: 5.4.0
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.9.9
 Requires PHP: 5.2.4
 License: GPLv2 or later
